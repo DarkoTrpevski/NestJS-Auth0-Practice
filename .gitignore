@@ -1,0 +1,65 @@
+# compiled output
+blog-backend/dist
+blog-backend/node_modules
+
+# Logs
+blog-backend/.gitignore
+blog-backend/.README.md
+blog-backend/logs
+blog-backend/*.log
+blog-backend/npm-debug.log*
+blog-backend/yarn-debug.log*
+blog-backend/yarn-error.log*
+blog-backend/lerna-debug.log*
+blog-backend/.env
+
+# OS
+blog-backend/.DS_Store
+
+# Tests
+blog-backend/coverage
+blog-backend/.nyc_output
+
+# IDEs and editors
+blog-backend/.idea
+blog-backend/.project
+blog-backend/.classpath
+blog-backend/.c9/
+blog-backend/*.launch
+blog-backend/.settings/
+blog-backend/*.sublime-workspace
+
+# IDE - VSCode
+blog-backend/.vscode/*
+blog-backend/!.vscode/settings.json
+blog-backend/!.vscode/tasks.json
+blog-backend/!.vscode/launch.json
+blog-backend/!.vscode/extensions.json
+
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+blog-frontend/node_modules
+blog-frontend/.gitignore
+blog-frontend/.README.md
+blog-frontend/.pnp
+blog-frontend/.pnp.js
+
+# testing
+blog-frontend/coverage
+
+# production
+blog-frontend/build
+
+# misc
+blog-frontend/.DS_Store
+blog-frontend/.env
+blog-frontend/.env.local
+blog-frontend/.env.development.local
+blog-frontend/.env.test.local
+blog-frontend/.env.production.local
+
+blog-frontend/npm-debug.log*
+blog-frontend/yarn-debug.log*
+blog-frontend/yarn-error.log*
